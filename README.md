@@ -4,7 +4,7 @@
 
 - 🌱 I’m skilled at solving complex problems through analysis, collaboration, and attention to detail. 
 
-- 💞️ I’m looking to collaborate on project focusing on identity and access management, user provisioning/de-provisioning and access flow.
+- 💞️ I’m looking to collaborate on projects focusing on identity and access management, user provisioning/de-provisioning and access flow.
 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
