@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 
 | Skill  | Associated Project |
 | ------------- | ------------- |
-| Conducting a security audit  | [Controls Assessment and Compliance](https://github.com/mmat62/Controls-Assessment-and-Compliance)  |
+| Conducting security audit  | [Controls Assessment and Compliance](https://github.com/mmat62/Controls-Assessment-and-Compliance)  |
 | Content Cell  | Content Cell  |
