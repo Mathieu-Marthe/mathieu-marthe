@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mathieu
 
-- 👀 I’m a Professional IT specialist with 10 years experience overseeing operations, leading projects and managing stakeholder relationships in complex organizations.
+- 👀 I’m a IT Specialist with 10 years experience overseeing operations, leading projects and managing stakeholder relationships in complex organizations.
 
 - 🌱 I’m skilled at solving complex problems through analysis, collaboration, and attention to detail. 
 
