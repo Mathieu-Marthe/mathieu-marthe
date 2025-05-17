@@ -19,4 +19,6 @@ You can click the Preview link to take a look at your changes.
 | Skill  | Associated Project |
 | ------------- | ------------- |
 | Conducting security audit  | [Controls Assessment and Compliance](https://github.com/mmat62/Controls-Assessment-and-Compliance)  |
+| Network Traffic Analysis  | [Cybersecurity Incident Report](https://github.com/mmat62/Cybersecurity-Incident-Report-Network-Traffic-Analysis)  |
+| Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
