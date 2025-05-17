@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 
 | Skill  | Associated Project |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Conducting a security audit  | Content Cell  |
 | Content Cell  | Content Cell  |
