@@ -22,5 +22,6 @@ You can click the Preview link to take a look at your changes.
 | Network Traffic Analysis  | [Cybersecurity Incident Report](https://github.com/mmat62/Cybersecurity-Incident-Report-Network-Traffic-Analysis)  |
 | Network Attacks Analysis  | [Wireshark TCP_HTTP log](https://github.com/mmat62/Wireshark-TCP_HTTP-log-Analyze-Network-Attacks)  |
 | Identity and Access Management  | [User Activity Audit](https://github.com/mmat62/Identity-and-access-management-user-activity-audit)  |
+| Tasks Automation with Python  | [Update a file through a Python algorithm](https://github.com/Mathieu-Marthe/Update-a-file-through-a-Python-algorithm)  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
