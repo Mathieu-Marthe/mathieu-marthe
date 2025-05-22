@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 | Identity and Access Management  | [User Activity Audit](https://github.com/mmat62/Identity-and-access-management-user-activity-audit)  |
 | Tasks Automation with Python  | [Update a file through a Python algorithm](https://github.com/Mathieu-Marthe/Update-a-file-through-a-Python-algorithm)  |
 | Identity and Access Management  | [File permissions in Linux](https://github.com/Mathieu-Marthe/file-permissions-in-Linux/tree/main)  |
-| TBD  | TBD  |
+| SQL Security Tasks  | [Apply filters to SQL queries](https://github.com/Mathieu-Marthe/SQL-queries-filters) |
