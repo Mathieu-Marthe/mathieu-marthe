@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Skills and Projects
 
+
 | Skill  | Associated Project |
 | ------------- | ------------- |
 | Conducting Security Audit  | [Controls Assessment and Compliance](https://github.com/mmat62/Controls-Assessment-and-Compliance)  |
