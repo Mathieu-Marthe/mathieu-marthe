@@ -25,5 +25,6 @@ You can click the Preview link to take a look at your changes.
 | Incident Handling  | [Investigate a Suspicious File Hash](https://github.com/Mathieu-Marthe/alert-ticket-and-incident-handling)  |
 | Network Traffic Analysis  | [Cybersecurity Incident Report](https://github.com/mmat62/Cybersecurity-Incident-Report-Network-Traffic-Analysis)  |
 | Network Attacks Analysis  | [Wireshark TCP_HTTP log](https://github.com/mmat62/Wireshark-TCP_HTTP-log-Analyze-Network-Attacks)  |
+| Security Awareness | [Design a Phishing Email Simulation]() |
 | SQL Security Tasks  | [Apply filters to SQL queries](https://github.com/Mathieu-Marthe/SQL-queries-filters) |
 | Task Automation with Python  | [Update a file through a Python algorithm](https://github.com/Mathieu-Marthe/Update-a-file-through-a-Python-algorithm)  |
