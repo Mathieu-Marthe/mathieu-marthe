@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Mathieu
 
-#### 👀 I’m an IT Specialist with 10 years experience overseeing operations, leading projects and managing stakeholder relationships in complex organizations.
+#### 👀 I’m a content strategist with over 10 years of experience managing content and improving UX in non-profits, education, and technology.
 
-#### 🌱 I’m skilled at solving complex problems through analysis, collaboration, and attention to detail. 
+#### 🌱 I collaborate with internal teams and external vendors to investigate user needs, solve problems, and simplify complex flows.
 
-#### 💞️ I’m looking to collaborate on projects focusing on identity and access management, user provisioning/de-provisioning and access flow.
+#### 💞️  Proficient in HTML, CSS, Adobe Creative Suite, CMS (Drupal and other).
 
 #### 📫 How to reach me: mathieu.y.marthe@gmail.com
 
@@ -14,7 +14,7 @@
 mmat62/mmat62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Skills and Projects
+## Past Projects
 
 
 | Skill  | Associated Project |
